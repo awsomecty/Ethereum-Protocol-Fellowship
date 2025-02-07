@@ -103,7 +103,21 @@ timezone: Europe/Berlin
             - XOR-based distance, enables parallel lookups
             - better fault tolerance: node cache more peer info, more resilient to churn
             - efficient lookups: O(logN) hops with min maintenance overhead
-
+- What's Ethereum Protocol design in high level
+    - Design philo
+        -  Simplicity, Universality, Modularity, Non-discrimination, Agility
+    - Main component
+        - EL: execution engine
+            - handle user tx and all state (addr, contract data)
+        - CL: implement pos mechanism
+            - ensure security and fault tolerance
+    - Implementation & development
+        - Client: an implementation of the EL or CL
+        - Node: a computer running this client & connecting to the network; a node is a pair of EL and CL clients actively participating in the network
+        - Client diversity strategy 
+    - Testing & security
+        - Different testing tools for state transition testing, fuzzing, shadow forks, RPC tests, client unit tests and CI/CD, etc.
+    - Coordination
 
 ### 2025.02.08
 
