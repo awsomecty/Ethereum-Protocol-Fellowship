@@ -170,7 +170,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | poyucheese | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | amandakelake | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | ALiangNe | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
-| tienshaoku | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
+| tienshaoku | ✅ | ✅ | | | | | | | | | | | | | | | | | | | | | |   |   |
 | tannerang | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | dixia | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | dajuguan | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -188,6 +188,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | awsomecty | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | devbards | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
