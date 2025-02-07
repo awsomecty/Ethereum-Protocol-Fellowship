@@ -22,3 +22,5 @@ timezone: Asia/Shanghai
 边看边记：
 - execution layer and concensus layer are actually two different clients, each have its own p2p network
 - 重点研究: trie, merkle trie/tree, patricia trie, merkle-patricia trie, verkle trie 把leetcode150里面trie的题做了
+
+<!-- Content_END -->
