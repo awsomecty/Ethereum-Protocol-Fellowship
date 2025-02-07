@@ -74,7 +74,7 @@ TODO 简单了解 MPT 之后，重点研究 Verkle tree
 
 目前的节点状态数据包括 1-2TB，其实挺麻烦的，启动节点等还是比较麻烦的。
 
-# 2024.02.07
+# 2025.02.07
 
 ## [Protocol Design Philosophy](https://epf.wiki/#/wiki/protocol/design-rationale)
 
