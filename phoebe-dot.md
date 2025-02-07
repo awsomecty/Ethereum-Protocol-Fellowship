@@ -13,11 +13,12 @@ timezone: Asia/GuangZhou
 
 ### 2025.02.06
 
-筆記
+paticipate the first weekly call 
+learning epf.wiki study group week 1 
 
 ### 2024.02.07
 
-筆記
+still learning epf.wiki study group week 1 ,read ethereum.org docs 
 
 ### 2024.02.08
 
