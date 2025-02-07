@@ -141,7 +141,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | yahsinhuangtw | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | 0xKarl98 | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | marvelshan | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
-| rogers3333 | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
+| rogers3333 | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | deporter | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | LouisTsai-Csie | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | kidneyweakx | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -188,6 +188,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | awsomecty | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | devbards | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
