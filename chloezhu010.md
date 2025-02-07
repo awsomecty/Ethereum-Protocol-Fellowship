@@ -61,6 +61,8 @@ timezone: Europe/Berlin
     | node discovery | random peer selection, DNS seed     | kademlia DHT for structured peer lookup   |
     | data porpagation    | gossip-based (flooding)    | gossip-based + DHT routing   |
     | efficiency    | redundant message forwarding    | more efficient lookup   |
+
+### 2025.02.07
 - What's DHT and Kademlia DHT
     - DHT (Distributed Hash Table)
         - a decentralized system for storing & retrieving key-value pairs in a distributed network
@@ -83,9 +85,26 @@ timezone: Europe/Berlin
             - Routing table maintenance: nodes periodically update their routing tables by querying other nodes and exchanging information about peers
         - Application
             - Used in Ethereum, BitTorrent, IPFS
+    - Other types of DHT
+        - Chord (consistent hashing-based)
+            - use ring structure: node ID and keys are arranged in a circular space
+            - each node maintains a finger table pointing to nodes at exponentially increasing distance in the ring
+            - require more maintenance when nodes join/ leave, whereas Kademlia’s XOR-based buckets provide better resilience
+        - Pastry (prefiex-based routing)
+            - use prefix-matching for routing. Nodes and keys have numerical IDs, and nodes forward requests to peers whose ID shares the longest prefix with the target
+            - each node keeps a leaf set (close nodes) and a routing table for long-range hops
+            - need more state per node (bigger routing table) than Kademlia
+        - CAN (content addressable network)
+            - use a d-dimensional coordinate space, where each node owns a zone
+            - keys are mapped to coordinate points in this space, and nodes forward queries toward the target zone
+            - lookup complexity is O(d N^(1/d)), scalable with more dimensions
+            - less efficient than Kademlia for large networks because it requires more hops in high-dimensional spaces
+        - Why Kademlia is a better choice
+            - XOR-based distance, enables parallel lookups
+            - better fault tolerance: node cache more peer info, more resilient to churn
+            - efficient lookups: O(logN) hops with min maintenance overhead
 
 
-### 2025.02.07
 
 
 ### 2025.02.07
