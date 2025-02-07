@@ -18,7 +18,7 @@ timezone: Asia/Shanghai
 
 <!-- Content_START -->
 
-### 2025.2.6
+### 2025.02.06
 
 `Reading Focus`
 - ETH中的存储结构
@@ -83,7 +83,6 @@ timezone: Asia/Shanghai
 | **交易内容** | 交易树（MPT）           | 仅写入一次     | 通过区块头哈希验证存在性     |
 | **Blob**     | 链外存储（非 MPT）      | 临时写入       | 通过数据哈希验证完整性       |
 
-### 2025.2.7
+### 2025.02.07
 
 笔记内容
-
