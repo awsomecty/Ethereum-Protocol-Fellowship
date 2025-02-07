@@ -62,4 +62,14 @@ Slashing Pool Service 则是 Slasher Service 的依赖模块。
 
 ### 2025.02.08
 
+继续阅读代码，由于没有本地搭建编译和调试环境，所以以阅读为主，不求甚解。
+
+https://github.com/prysmaticlabs/prysm/blob/develop/beacon-chain/slasher/service.go#L88 首先是这个 `func (s *Service) run()` 阅读这里的逻辑。这里在做并行系统的人，需要有一种代码感受，因为做 beacon 是一个分布式系统，所以slash的逻辑需要在很多 beacon nodes 上一起执行，并且得到相同结果。
+
+带着问题去看以上的代码，尝试把关于POS的一些基本问题定位到具体代码逻辑：什么时候质押（比如32个ETH）会被罚没呢？这会反向让我们跳出代码来思考问题本身。
+
+感受到了知识的缺乏以后，开始在网上搜索，找到了 prysm 自己的官方 doc https://docs.prylabs.network/docs/install/install-with-script 在这方面学习更多对 POS 的基本概念。
+
+### 2025.02.09
+
 <!-- Content_END -->
