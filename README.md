@@ -168,7 +168,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | dundun930326 | ✅ | ✅ | | | | | | | | | | | | | | | | | | | | | |   |   |
 | Echocipher | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | poyucheese | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
-| amandakelake | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
+| amandakelake | ✅ | ✅ | | | | | | | | | | | | | | | | | | | | | |   |   |
 | ALiangNe | ⭕️ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | tienshaoku | ✅ | ✅ | | | | | | | | | | | | | | | | | | | | | |   |   |
 | tannerang | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
@@ -188,6 +188,7 @@ Telegram：https://t.me/ETHPandaOrg/5427
 | awsomecty | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 | devbards | ✅ |   | | | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
