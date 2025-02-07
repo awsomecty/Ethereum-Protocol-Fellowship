@@ -18,7 +18,22 @@ learning epf.wiki study group week 1
 
 ### 2024.02.07
 
-still learning epf.wiki study group week 1 ,read ethereum.org docs 
+still learning epf.wiki study group week 1 
+
+read ethereum.org docs 
+Pre-reading:
+
+Cryptography
+Hashing
+Public key cryptography
+Data structures
+Merkle trees
+Networking, p2p and distributed systems
+Software development basics
+Programming languages, compilers
+Ethereum as a platform
+From a user perspective
+
 
 ### 2024.02.08
 
