@@ -69,6 +69,6 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 ### 2025.02.07
 
 1. 学习小组的内容分为 2 部分：前 2 周 学习已有的课程，后面 6 周 是讲座。 后面的主要学习已有的课程
-2. 学习小组的内筒 可以去对应的 github 去贡献：https://github.com/eth-protocol-fellows/protocol-studies
+2. 学习小组的内容 可以去对应的 github 去贡献：https://github.com/eth-protocol-fellows/protocol-studies
 
 <!-- Content_END -->
